@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-classic
+pypdf
+faiss-cpu
+sentence-transformers
